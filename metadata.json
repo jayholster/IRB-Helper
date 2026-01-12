@@ -1,0 +1,5 @@
+{
+  "name": "LionIRB Assist",
+  "description": "A confidence engine for Penn State researchers to navigate HRP-591 protocols, featuring Preflight checks and Full Protocol building.",
+  "requestFramePermissions": []
+}
